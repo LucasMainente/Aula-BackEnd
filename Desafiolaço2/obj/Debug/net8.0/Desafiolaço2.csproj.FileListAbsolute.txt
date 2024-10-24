@@ -1,0 +1,4 @@
+C:\Users\55747955829\Desktop\Back-End\Desafiolaço2\obj\Debug\net8.0\Desafiolaço2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55747955829\Desktop\Back-End\Desafiolaço2\obj\Debug\net8.0\Desafiolaço2.AssemblyInfoInputs.cache
+C:\Users\55747955829\Desktop\Back-End\Desafiolaço2\obj\Debug\net8.0\Desafiolaço2.AssemblyInfo.cs
+C:\Users\55747955829\Desktop\Back-End\Desafiolaço2\obj\Debug\net8.0\Desafiolaço2.csproj.CoreCompileInputs.cache

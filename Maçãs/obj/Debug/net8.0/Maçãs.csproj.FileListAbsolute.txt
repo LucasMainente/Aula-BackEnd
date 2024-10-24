@@ -1,0 +1,14 @@
+C:\Users\55747955829\Desktop\Back-End\Maçãs\bin\Debug\net8.0\Maçãs.exe
+C:\Users\55747955829\Desktop\Back-End\Maçãs\bin\Debug\net8.0\Maçãs.deps.json
+C:\Users\55747955829\Desktop\Back-End\Maçãs\bin\Debug\net8.0\Maçãs.runtimeconfig.json
+C:\Users\55747955829\Desktop\Back-End\Maçãs\bin\Debug\net8.0\Maçãs.dll
+C:\Users\55747955829\Desktop\Back-End\Maçãs\bin\Debug\net8.0\Maçãs.pdb
+C:\Users\55747955829\Desktop\Back-End\Maçãs\obj\Debug\net8.0\Maçãs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55747955829\Desktop\Back-End\Maçãs\obj\Debug\net8.0\Maçãs.AssemblyInfoInputs.cache
+C:\Users\55747955829\Desktop\Back-End\Maçãs\obj\Debug\net8.0\Maçãs.AssemblyInfo.cs
+C:\Users\55747955829\Desktop\Back-End\Maçãs\obj\Debug\net8.0\Maçãs.csproj.CoreCompileInputs.cache
+C:\Users\55747955829\Desktop\Back-End\Maçãs\obj\Debug\net8.0\Maçãs.dll
+C:\Users\55747955829\Desktop\Back-End\Maçãs\obj\Debug\net8.0\refint\Maçãs.dll
+C:\Users\55747955829\Desktop\Back-End\Maçãs\obj\Debug\net8.0\Maçãs.pdb
+C:\Users\55747955829\Desktop\Back-End\Maçãs\obj\Debug\net8.0\Maçãs.genruntimeconfig.cache
+C:\Users\55747955829\Desktop\Back-End\Maçãs\obj\Debug\net8.0\ref\Maçãs.dll

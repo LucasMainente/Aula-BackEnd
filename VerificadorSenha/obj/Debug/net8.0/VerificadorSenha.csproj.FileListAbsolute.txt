@@ -1,0 +1,14 @@
+C:\Users\55747955829\Desktop\Back-End\VerificadorSenha\bin\Debug\net8.0\VerificadorSenha.exe
+C:\Users\55747955829\Desktop\Back-End\VerificadorSenha\bin\Debug\net8.0\VerificadorSenha.deps.json
+C:\Users\55747955829\Desktop\Back-End\VerificadorSenha\bin\Debug\net8.0\VerificadorSenha.runtimeconfig.json
+C:\Users\55747955829\Desktop\Back-End\VerificadorSenha\bin\Debug\net8.0\VerificadorSenha.dll
+C:\Users\55747955829\Desktop\Back-End\VerificadorSenha\bin\Debug\net8.0\VerificadorSenha.pdb
+C:\Users\55747955829\Desktop\Back-End\VerificadorSenha\obj\Debug\net8.0\VerificadorSenha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55747955829\Desktop\Back-End\VerificadorSenha\obj\Debug\net8.0\VerificadorSenha.AssemblyInfoInputs.cache
+C:\Users\55747955829\Desktop\Back-End\VerificadorSenha\obj\Debug\net8.0\VerificadorSenha.AssemblyInfo.cs
+C:\Users\55747955829\Desktop\Back-End\VerificadorSenha\obj\Debug\net8.0\VerificadorSenha.csproj.CoreCompileInputs.cache
+C:\Users\55747955829\Desktop\Back-End\VerificadorSenha\obj\Debug\net8.0\VerificadorSenha.dll
+C:\Users\55747955829\Desktop\Back-End\VerificadorSenha\obj\Debug\net8.0\refint\VerificadorSenha.dll
+C:\Users\55747955829\Desktop\Back-End\VerificadorSenha\obj\Debug\net8.0\VerificadorSenha.pdb
+C:\Users\55747955829\Desktop\Back-End\VerificadorSenha\obj\Debug\net8.0\VerificadorSenha.genruntimeconfig.cache
+C:\Users\55747955829\Desktop\Back-End\VerificadorSenha\obj\Debug\net8.0\ref\VerificadorSenha.dll

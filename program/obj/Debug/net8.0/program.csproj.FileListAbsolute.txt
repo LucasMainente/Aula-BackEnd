@@ -1,0 +1,14 @@
+C:\Users\55747955829\Desktop\Back-End\program\obj\Debug\net8.0\program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55747955829\Desktop\Back-End\program\obj\Debug\net8.0\program.AssemblyInfoInputs.cache
+C:\Users\55747955829\Desktop\Back-End\program\obj\Debug\net8.0\program.AssemblyInfo.cs
+C:\Users\55747955829\Desktop\Back-End\program\obj\Debug\net8.0\program.csproj.CoreCompileInputs.cache
+C:\Users\55747955829\Desktop\Back-End\program\bin\Debug\net8.0\program.exe
+C:\Users\55747955829\Desktop\Back-End\program\bin\Debug\net8.0\program.deps.json
+C:\Users\55747955829\Desktop\Back-End\program\bin\Debug\net8.0\program.runtimeconfig.json
+C:\Users\55747955829\Desktop\Back-End\program\bin\Debug\net8.0\program.dll
+C:\Users\55747955829\Desktop\Back-End\program\bin\Debug\net8.0\program.pdb
+C:\Users\55747955829\Desktop\Back-End\program\obj\Debug\net8.0\program.dll
+C:\Users\55747955829\Desktop\Back-End\program\obj\Debug\net8.0\refint\program.dll
+C:\Users\55747955829\Desktop\Back-End\program\obj\Debug\net8.0\program.pdb
+C:\Users\55747955829\Desktop\Back-End\program\obj\Debug\net8.0\program.genruntimeconfig.cache
+C:\Users\55747955829\Desktop\Back-End\program\obj\Debug\net8.0\ref\program.dll

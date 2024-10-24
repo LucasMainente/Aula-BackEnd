@@ -1,0 +1,14 @@
+C:\Users\55747955829\Desktop\Back-End\Triangulos\bin\Debug\net8.0\Triangulos.exe
+C:\Users\55747955829\Desktop\Back-End\Triangulos\bin\Debug\net8.0\Triangulos.deps.json
+C:\Users\55747955829\Desktop\Back-End\Triangulos\bin\Debug\net8.0\Triangulos.runtimeconfig.json
+C:\Users\55747955829\Desktop\Back-End\Triangulos\bin\Debug\net8.0\Triangulos.dll
+C:\Users\55747955829\Desktop\Back-End\Triangulos\bin\Debug\net8.0\Triangulos.pdb
+C:\Users\55747955829\Desktop\Back-End\Triangulos\obj\Debug\net8.0\Triangulos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55747955829\Desktop\Back-End\Triangulos\obj\Debug\net8.0\Triangulos.AssemblyInfoInputs.cache
+C:\Users\55747955829\Desktop\Back-End\Triangulos\obj\Debug\net8.0\Triangulos.AssemblyInfo.cs
+C:\Users\55747955829\Desktop\Back-End\Triangulos\obj\Debug\net8.0\Triangulos.csproj.CoreCompileInputs.cache
+C:\Users\55747955829\Desktop\Back-End\Triangulos\obj\Debug\net8.0\Triangulos.dll
+C:\Users\55747955829\Desktop\Back-End\Triangulos\obj\Debug\net8.0\refint\Triangulos.dll
+C:\Users\55747955829\Desktop\Back-End\Triangulos\obj\Debug\net8.0\Triangulos.pdb
+C:\Users\55747955829\Desktop\Back-End\Triangulos\obj\Debug\net8.0\Triangulos.genruntimeconfig.cache
+C:\Users\55747955829\Desktop\Back-End\Triangulos\obj\Debug\net8.0\ref\Triangulos.dll

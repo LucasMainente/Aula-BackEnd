@@ -1,0 +1,14 @@
+C:\Users\55747955829\Desktop\Back-End\Desafiolaço1\obj\Debug\net8.0\Desafiolaço1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55747955829\Desktop\Back-End\Desafiolaço1\obj\Debug\net8.0\Desafiolaço1.AssemblyInfoInputs.cache
+C:\Users\55747955829\Desktop\Back-End\Desafiolaço1\obj\Debug\net8.0\Desafiolaço1.AssemblyInfo.cs
+C:\Users\55747955829\Desktop\Back-End\Desafiolaço1\obj\Debug\net8.0\Desafiolaço1.csproj.CoreCompileInputs.cache
+C:\Users\55747955829\Desktop\Back-End\Desafiolaço1\bin\Debug\net8.0\Desafiolaço1.exe
+C:\Users\55747955829\Desktop\Back-End\Desafiolaço1\bin\Debug\net8.0\Desafiolaço1.deps.json
+C:\Users\55747955829\Desktop\Back-End\Desafiolaço1\bin\Debug\net8.0\Desafiolaço1.runtimeconfig.json
+C:\Users\55747955829\Desktop\Back-End\Desafiolaço1\bin\Debug\net8.0\Desafiolaço1.dll
+C:\Users\55747955829\Desktop\Back-End\Desafiolaço1\bin\Debug\net8.0\Desafiolaço1.pdb
+C:\Users\55747955829\Desktop\Back-End\Desafiolaço1\obj\Debug\net8.0\Desafiolaço1.dll
+C:\Users\55747955829\Desktop\Back-End\Desafiolaço1\obj\Debug\net8.0\refint\Desafiolaço1.dll
+C:\Users\55747955829\Desktop\Back-End\Desafiolaço1\obj\Debug\net8.0\Desafiolaço1.pdb
+C:\Users\55747955829\Desktop\Back-End\Desafiolaço1\obj\Debug\net8.0\Desafiolaço1.genruntimeconfig.cache
+C:\Users\55747955829\Desktop\Back-End\Desafiolaço1\obj\Debug\net8.0\ref\Desafiolaço1.dll

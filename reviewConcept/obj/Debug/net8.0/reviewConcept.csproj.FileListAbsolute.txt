@@ -1,0 +1,14 @@
+C:\Users\55747955829\Desktop\Back-End\reviewConcept\obj\Debug\net8.0\reviewConcept.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55747955829\Desktop\Back-End\reviewConcept\obj\Debug\net8.0\reviewConcept.AssemblyInfoInputs.cache
+C:\Users\55747955829\Desktop\Back-End\reviewConcept\obj\Debug\net8.0\reviewConcept.AssemblyInfo.cs
+C:\Users\55747955829\Desktop\Back-End\reviewConcept\obj\Debug\net8.0\reviewConcept.csproj.CoreCompileInputs.cache
+C:\Users\55747955829\Desktop\Back-End\reviewConcept\bin\Debug\net8.0\reviewConcept.exe
+C:\Users\55747955829\Desktop\Back-End\reviewConcept\bin\Debug\net8.0\reviewConcept.deps.json
+C:\Users\55747955829\Desktop\Back-End\reviewConcept\bin\Debug\net8.0\reviewConcept.runtimeconfig.json
+C:\Users\55747955829\Desktop\Back-End\reviewConcept\bin\Debug\net8.0\reviewConcept.dll
+C:\Users\55747955829\Desktop\Back-End\reviewConcept\bin\Debug\net8.0\reviewConcept.pdb
+C:\Users\55747955829\Desktop\Back-End\reviewConcept\obj\Debug\net8.0\reviewConcept.dll
+C:\Users\55747955829\Desktop\Back-End\reviewConcept\obj\Debug\net8.0\refint\reviewConcept.dll
+C:\Users\55747955829\Desktop\Back-End\reviewConcept\obj\Debug\net8.0\reviewConcept.pdb
+C:\Users\55747955829\Desktop\Back-End\reviewConcept\obj\Debug\net8.0\reviewConcept.genruntimeconfig.cache
+C:\Users\55747955829\Desktop\Back-End\reviewConcept\obj\Debug\net8.0\ref\reviewConcept.dll

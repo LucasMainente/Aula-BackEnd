@@ -1,0 +1,14 @@
+C:\Users\55747955829\Desktop\Back-End\jogoDeFutebol\obj\Debug\net8.0\jogoDeFutebol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55747955829\Desktop\Back-End\jogoDeFutebol\obj\Debug\net8.0\jogoDeFutebol.AssemblyInfoInputs.cache
+C:\Users\55747955829\Desktop\Back-End\jogoDeFutebol\obj\Debug\net8.0\jogoDeFutebol.AssemblyInfo.cs
+C:\Users\55747955829\Desktop\Back-End\jogoDeFutebol\obj\Debug\net8.0\jogoDeFutebol.csproj.CoreCompileInputs.cache
+C:\Users\55747955829\Desktop\Back-End\jogoDeFutebol\bin\Debug\net8.0\jogoDeFutebol.exe
+C:\Users\55747955829\Desktop\Back-End\jogoDeFutebol\bin\Debug\net8.0\jogoDeFutebol.deps.json
+C:\Users\55747955829\Desktop\Back-End\jogoDeFutebol\bin\Debug\net8.0\jogoDeFutebol.runtimeconfig.json
+C:\Users\55747955829\Desktop\Back-End\jogoDeFutebol\bin\Debug\net8.0\jogoDeFutebol.dll
+C:\Users\55747955829\Desktop\Back-End\jogoDeFutebol\bin\Debug\net8.0\jogoDeFutebol.pdb
+C:\Users\55747955829\Desktop\Back-End\jogoDeFutebol\obj\Debug\net8.0\jogoDeFutebol.dll
+C:\Users\55747955829\Desktop\Back-End\jogoDeFutebol\obj\Debug\net8.0\refint\jogoDeFutebol.dll
+C:\Users\55747955829\Desktop\Back-End\jogoDeFutebol\obj\Debug\net8.0\jogoDeFutebol.pdb
+C:\Users\55747955829\Desktop\Back-End\jogoDeFutebol\obj\Debug\net8.0\jogoDeFutebol.genruntimeconfig.cache
+C:\Users\55747955829\Desktop\Back-End\jogoDeFutebol\obj\Debug\net8.0\ref\jogoDeFutebol.dll
