@@ -1,26 +1,26 @@
-﻿
-int[] numeros = new int[6];
-int qtdPares = 0, qtdImpares = 0;
+﻿int[] numeros = new int[6];
+int Pares = 0, Impares = 0;
 
-
-Console.WriteLine("Digite 6 números inteiros:");
-for (int i = 0; i < 6; i++)
+for (int i = 0; i < numeros.Length; i++) // Corrected here
 {
-    Console.Write($"Número {i + 1}: ");
-    numeros[i] = int.Parse(Console.ReadLine());
-}
+    Console.WriteLine($"Escreva o {i + 1} º número: ");
+    int numeroDigitado = int.Parse(Console.ReadLine()!);
+    numeros[i] = numeroDigitado;
 
-foreach (int numero in numeros)
-{
-    if (numero % 2 == 0)
+    if (numeroDigitado % 2 == 0)
     {
-        qtdPares++;
+        Pares++;
     }
     else
     {
-        qtdImpares++;
+        Impares++;
     }
 }
 
-Console.WriteLine($"\nQuantidade de números pares: {qtdPares}");
-Console.WriteLine($"Quantidade de números ímpares: {qtdImpares}");
+Console.WriteLine($"\nQuantidade de números pares: {Pares}");
+for (int i = 0; i < length; i++)
+{
+    
+}
+Console.WriteLine($"Quantidade de números ímpares: {Impares}");
+
