@@ -1,0 +1,14 @@
+C:\Users\55747955829\Desktop\POO\PILARESPOO\bin\Debug\net8.0\PILARESPOO.exe
+C:\Users\55747955829\Desktop\POO\PILARESPOO\bin\Debug\net8.0\PILARESPOO.deps.json
+C:\Users\55747955829\Desktop\POO\PILARESPOO\bin\Debug\net8.0\PILARESPOO.runtimeconfig.json
+C:\Users\55747955829\Desktop\POO\PILARESPOO\bin\Debug\net8.0\PILARESPOO.dll
+C:\Users\55747955829\Desktop\POO\PILARESPOO\bin\Debug\net8.0\PILARESPOO.pdb
+C:\Users\55747955829\Desktop\POO\PILARESPOO\obj\Debug\net8.0\PILARESPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55747955829\Desktop\POO\PILARESPOO\obj\Debug\net8.0\PILARESPOO.AssemblyInfoInputs.cache
+C:\Users\55747955829\Desktop\POO\PILARESPOO\obj\Debug\net8.0\PILARESPOO.AssemblyInfo.cs
+C:\Users\55747955829\Desktop\POO\PILARESPOO\obj\Debug\net8.0\PILARESPOO.csproj.CoreCompileInputs.cache
+C:\Users\55747955829\Desktop\POO\PILARESPOO\obj\Debug\net8.0\PILARESPOO.dll
+C:\Users\55747955829\Desktop\POO\PILARESPOO\obj\Debug\net8.0\refint\PILARESPOO.dll
+C:\Users\55747955829\Desktop\POO\PILARESPOO\obj\Debug\net8.0\PILARESPOO.pdb
+C:\Users\55747955829\Desktop\POO\PILARESPOO\obj\Debug\net8.0\PILARESPOO.genruntimeconfig.cache
+C:\Users\55747955829\Desktop\POO\PILARESPOO\obj\Debug\net8.0\ref\PILARESPOO.dll
